@@ -1,0 +1,40 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=2xoffset_panel
+*Date=12:43:27
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;7.52269;-9.18641;0;Bottom;IMG3
+2;;;7.35132;-105.741;90;Top;Pad3
+3;;;7.39513;-80.7576;0;Bottom;Hole6
+4;;;7.39513;-113.858;0;Bottom;Hole8
+5;;;3.5052;-1.6794;0;Bottom;Copper Fill5
+6;;;7.39503;-18.1459;0;Bottom;Hole4
+7;;;7.26824;-90.4759;0;Bottom;IMG2
+8;;;7.39503;-38.5458;0;Bottom;Hole2
+9;;;11.7602;-126.749;0;Bottom;Copper Fill3
+10;;;7.65046;-57.3559;0;Bottom;IMG1
+11;;;7.78678;-3.0578;0;Bottom;Hole9
+12;;;12.0282;-2.96362;0;Top;Pad1
+13;;;7.39504;-48.6459;0;Bottom;Hole1
+14;;;7.35132;-72.6459;90;Top;Pad4
+15;;;12.0282;-125.446;0;Top;Pad2
+16;;;7.78678;-125.252;0;Bottom;Hole10
+17;;;7.39504;-28.2458;0;Bottom;Hole3
+18;;;3.556;-126.749;0;Bottom;Copper Fill2
+19;;;11.811;-1.6794;0;Bottom;Copper Fill6
+20;;;3.32335;-125.446;0;Top;Pad5
+21;;;7.5438;-64.2142;0;Bottom;Copper Fill1
+22;;;7.39494;-64.3458;0;Bottom;Hole7
+23;;;7.39494;-97.2577;0;Bottom;Hole5
+24;;;3.32335;-2.96362;0;Top;Pad6
+25;;;7.5438;-64.2142;0;Bottom;Copper Fill4
